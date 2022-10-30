@@ -1,0 +1,15 @@
+What are the Methods to Handle Missing Values/Data?
+In general, there are the best 6 methods to handle missing data or values. It is the part of Data Preprocessing and this is the most important step to build Machine Learning/Data Science project. The following are the most popular methods to handle missing data.
+
+•Ignore missing values row / Delete row
+
+•Fill missing value manually
+
+•Use global constant
+
+•Measure of central tendency (Mean, Median & Mode)
+
+•Measure of central tendency for each class
+
+•Most probable value ( ML Algorithms)
+
